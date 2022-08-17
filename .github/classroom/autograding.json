@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Verify hello world.txt",
+      "setup": "",
+      "run": "ls",
+      "input": "",
+      "output": "txt",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
