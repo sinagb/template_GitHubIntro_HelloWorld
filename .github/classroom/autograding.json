@@ -1,14 +1,14 @@
 {
   "tests": [
     {
-      "name": "Verify hello world.txt",
+      "name": "Finn .txt fil",
       "setup": "",
-      "run": "ls",
+      "run": "ls -R",
       "input": "",
-      "output": "txt",
-      "comparison": "regex",
+      "output": ".txt",
+      "comparison": "included",
       "timeout": 1,
-      "points": 10
+      "points": 100
     }
   ]
 }
